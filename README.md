@@ -8,5 +8,5 @@ rns/ contains Reason project files.
 ogg/ contain compressed .oggs in listeneable format if you just want to hear it.
 
 Links:  
-[1] github.com/FranciscoCanas/murderball2013  
+[1] github.com/FranciscoCanas/murderball-2013  
 [2] www.utgddc.com
